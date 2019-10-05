@@ -1,0 +1,1 @@
+diretorio vazio para salvar os histogramas das faces
